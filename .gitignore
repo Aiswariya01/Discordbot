@@ -129,6 +129,7 @@ celerybeat.pid
 
 # Environments
 .env
+--pycache--/
 .venv
 env/
 venv/
